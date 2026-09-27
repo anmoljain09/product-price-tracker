@@ -1,0 +1,112 @@
+.search-card-grid {
+  width: 100%;
+  max-width: 850px;
+  margin: 0 auto;
+
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.search-card {
+  width: 100%;
+  background: #ffffff;
+  border: 1px solid #e8e8e8;
+  border-radius: 12px;
+  box-sizing: border-box;
+
+  transition: all 0.2s ease;
+}
+
+.search-card:hover {
+  border-color: #d0d0d0;
+  box-shadow: 0 5px 16px rgba(0, 0, 0, 0.07);
+}
+
+.search-card-content {
+  padding: 16px 20px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.search-card-title {
+  margin: 0;
+
+  color: #171717;
+  font-size: 17px;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.search-card-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+}
+
+.check-product-btn,
+.tasklist-btn {
+  height: 40px;
+  padding: 0 16px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border-radius: 8px;
+
+  font-size: 13px;
+  font-weight: 600;
+
+  cursor: pointer;
+  transition: 0.2s ease;
+}
+
+.check-product-btn {
+  background: #171717;
+  color: #ffffff;
+  border: 1px solid #171717;
+  text-decoration: none;
+}
+
+.check-product-btn:hover {
+  background: #333333;
+}
+
+.tasklist-btn {
+  background: #ffffff;
+  color: #171717;
+  border: 1px solid #d4d4d4;
+}
+
+.tasklist-btn:hover {
+  background: #171717;
+  color: #ffffff;
+  border-color: #171717;
+}
+
+@media (max-width: 600px) {
+  .search-card-grid {
+    padding: 15px;
+  }
+
+  .search-card-content {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .search-card-actions {
+    width: 100%;
+  }
+
+  .check-product-btn,
+  .tasklist-btn {
+    flex: 1;
+  }
+}

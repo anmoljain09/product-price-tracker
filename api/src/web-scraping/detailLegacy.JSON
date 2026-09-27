@@ -1,0 +1,334 @@
+[
+  {
+    "productId": "2415",
+    "productName": null,
+    "option": null,
+    "timestamp": "2026-09-27T13:00:05.314Z",
+    "price": null,
+    "stock": null,
+    "outcome": "failed",
+    "error": "locator.waitFor: Timeout 15000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('.price').first() to be visible\u001b[22m\n"
+  },
+  {
+    "productId": "2692",
+    "productName": null,
+    "option": null,
+    "timestamp": "2026-09-27T13:00:47.943Z",
+    "price": null,
+    "stock": null,
+    "outcome": "failed",
+    "error": "locator.waitFor: Timeout 15000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('.price').first() to be visible\u001b[22m\n"
+  },
+  {
+    "productId": "2415",
+    "productName": null,
+    "option": null,
+    "timestamp": "2026-09-27T13:02:58.865Z",
+    "price": null,
+    "stock": null,
+    "outcome": "failed",
+    "error": "locator.waitFor: Timeout 15000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('.price').first() to be visible\u001b[22m\n"
+  },
+  {
+    "productId": "2415",
+    "productName": "Halvard Foldable Tablet Flex",
+    "option": "256 GB",
+    "timestamp": "2026-09-27T13:08:20.529Z",
+    "price": null,
+    "stock": null,
+    "outcome": "failed",
+    "error": "DEBUG: Page text/HTML printed. Need actual price and stock selectors."
+  },
+  {
+    "productId": "2415",
+    "productName": null,
+    "option": null,
+    "timestamp": "2026-09-27T13:10:56.593Z",
+    "price": null,
+    "stock": null,
+    "outcome": "failed",
+    "error": "page.waitForFunction: Timeout 10000ms exceeded."
+  },
+  {
+    "productId": "2415",
+    "productName": null,
+    "option": null,
+    "timestamp": "2026-09-27T13:13:11.920Z",
+    "price": null,
+    "stock": null,
+    "outcome": "failed",
+    "error": "Price button remained disabled after price-area interaction"
+  },
+  {
+    "productId": "2415",
+    "productName": "Halvard Foldable Tablet Flex",
+    "option": "64 GB",
+    "timestamp": "2026-09-27T13:16:04.095Z",
+    "price": null,
+    "stock": "Unknown",
+    "outcome": "failed",
+    "error": "Price was not exposed after option selection and price interaction."
+  },
+  {
+    "productId": "2415",
+    "productName": "Halvard Foldable Tablet Flex",
+    "option": "256 GB",
+    "timestamp": "2026-09-27T13:18:07.389Z",
+    "price": null,
+    "stock": null,
+    "outcome": "debug",
+    "error": "Check API requests printed above."
+  },
+  {
+    "productId": "2415",
+    "productName": "Halvard Foldable Tablet Flex",
+    "option": "256 GB",
+    "timestamp": "2026-09-27T14:12:22.221Z",
+    "price": null,
+    "stock": "Unknown",
+    "outcome": "failed",
+    "error": "Price was not exposed after option selection and price interaction. Offer state: \"Price lockedHover over the price area to load the current price.Check today’s price\""
+  },
+  {
+    "productId": "2415",
+    "productName": "Halvard Foldable Tablet Flex",
+    "option": "256 GB",
+    "timestamp": "2026-09-27T14:15:12.048Z",
+    "price": null,
+    "stock": "Unknown",
+    "outcome": "failed",
+    "error": "\"Check today's price\" button remained disabled"
+  },
+  {
+    "productId": "2415",
+    "productName": "Halvard Foldable Tablet Flex",
+    "option": "128 GB",
+    "timestamp": "2026-09-27T14:19:16.940Z",
+    "price": null,
+    "stock": "Unknown",
+    "outcome": "failed",
+    "error": "Could not find \"Check today's price\" button",
+    "optionGroups": [
+      {
+        "axis": "Storage",
+        "options": [
+          "64 GB",
+          "128 GB",
+          "256 GB"
+        ],
+        "selected": "256 GB"
+      }
+    ]
+  },
+  {
+    "productId": "2415",
+    "productName": "Halvard Foldable Tablet Flex",
+    "option": "256 GB",
+    "timestamp": "2026-09-27T14:24:26.575Z",
+    "price": null,
+    "stock": "Unknown",
+    "outcome": "failed",
+    "error": "Check today's price button did not become enabled. Offer state: \"Price locked Hover over the price area to load the current price. CHECK TODAY’S PRICE\""
+  },
+  {
+    "productId": "2415",
+    "productName": null,
+    "option": null,
+    "timestamp": "2026-09-27T14:29:01.583Z",
+    "price": null,
+    "stock": "Unknown",
+    "outcome": "failed",
+    "error": "Check today's price button remained disabled. Offer state: \"Price lockedHover over the price area to load the current price.Check today’s price\""
+  },
+  {
+    "productId": "undefined",
+    "productName": null,
+    "option": null,
+    "timestamp": "2026-09-27T14:33:49.052Z",
+    "price": null,
+    "originalPrice": null,
+    "memberPrice": null,
+    "saving": null,
+    "stock": "Unknown",
+    "rating": null,
+    "delivery": null,
+    "seller": null,
+    "outcome": "failed",
+    "error": "Price remained locked after 3 clicks. State: locked. Offer: \"Price locked Hover over the price area to load the current price. CHECK TODAY’S PRICE\""
+  },
+  {
+    "productName": "Halvard Foldable Tablet Flex",
+    "option": "256 GB",
+    "timestamp": "2026-09-27T14:36:02.667Z",
+    "price": null,
+    "stock": "Unknown",
+    "outcome": "failed",
+    "error": "Price was not exposed after option selection and price interaction."
+  },
+  {
+    "productName": "Halvard Foldable Tablet Flex",
+    "option": "64 GB",
+    "timestamp": "2026-09-27T14:38:15.883Z",
+    "price": null,
+    "stock": "Unknown",
+    "outcome": "failed",
+    "error": "Price was not exposed after option selection and price interaction."
+  },
+  {
+    "success": false,
+    "productName": "Halvard Foldable Tablet Flex",
+    "selectedOption": "256 GB",
+    "offerState": {
+      "exists": true,
+      "state": "unknown",
+      "className": "offer-panel gle-n6",
+      "text": "Loading current price…",
+      "button": null,
+      "html": "<div class=\"offer-panel gle-n6\" aria-live=\"polite\" aria-busy=\"true\"><div class=\"loader\" aria-hidden=\"true\"></div><div><p class=\"offer-msg\">Loading current price…</p></div></div>"
+    },
+    "debugScreenshot": "debug-failure-1790520712337.png",
+    "debugHtml": "debug-failure-1790520712694.html"
+  },
+  {
+    "success": false,
+    "url": "https://demo.inelabteamdev.com/item/2415",
+    "productId": null,
+    "productName": "Halvard Foldable Tablet Flex",
+    "option": "128 GB",
+    "timestamp": "2026-09-27T14:59:55.435Z",
+    "price": null,
+    "priceText": null,
+    "stock": null,
+    "outcome": "failed",
+    "offerState": {
+      "exists": true,
+      "state": "locked",
+      "text": "Price locked\n\nHover over the price area to load the current price.\n\nCHECK TODAY’S PRICE",
+      "className": "offer-panel offer-locked gle-n6",
+      "button": {
+        "text": "CHECK TODAY’S PRICE",
+        "disabled": true,
+        "ariaLabel": "Check today’s price"
+      },
+      "html": "<div class=\"offer-panel offer-locked gle-n6\"><div><p class=\"offer-msg\">Price locked</p><p class=\"offer-submsg\">Hover over the price area to load the current price.</p></div><button type=\"button\" class=\"ctl ctl-main\" aria-label=\"Check today’s price\" disabled=\"\">Check today’s price</button></div>"
+    },
+    "rawOfferText": "Price locked\n\nHover over the price area to load the current price.\n\nCHECK TODAY’S PRICE",
+    "debugScreenshot": "debug-failure-1790521194810.png",
+    "debugHtml": "debug-failure-1790521195422.html"
+  },
+  {
+    "success": false,
+    "error": "Live offer did not become ready.\n{\n  \"offerPanel\": \"<div class=\\\"offer-panel offer-locked gle-n6\\\"><div><p class=\\\"offer-msg\\\">Price locked</p><p class=\\\"offer-submsg\\\">Hover over the price area to load the current price.</p></div><button type=\\\"button\\\" class=\\\"ctl ctl-main\\\" aria-label=\\\"Check today’s price\\\" disabled=\\\"\\\">Check today’s price</button></div>\",\n  \"bodyText\": \"◧ INE Store\\nEveryday goods, honestly priced.\\n‹ ALL ITEMS\\nTABLETS\\nHalvard Foldable Tablet Flex\\n\\nHalvard · SKU SK-2415-HA\\n\\nThe Halvard Foldable Tablet Flex. A dependable tablets pick with a clean, no-nonsense design and the everyday features you actually use.\\n\\nSTORAGE\\n64 GB\\n128 GB\\n256 GB\\n\\nPrice locked\\n\\nHover over the price area to load the current price.\\n\\nCHECK TODAY’S PRICE\\nSpecifications\\nWarranty\\n1 year manufacturer warranty\\nIn the box\\nFoldable Tablet, Stylus, Folio sleeve\\nCountry of origin\\nCzechia\\nReturns\\n7-day return or replacement\\nSupport\\nPhone support, 9am–6pm IST, weekdays only\\nWeight\\n667 g\\nMaterial\\nPolycarbonate with glass front\\nColour\\nGraphite\\nModel year\\n2024\\nAbout this item\\n\\nThe Halvard Foldable Tablet Flex is part of our everyday tablets range. It is built around the features people actually reach for, without the ones they never use, and it is designed to keep working after the novelty wears off.\\n\\nPricing and availability on this page are live and can change during the day. The figure shown is the current selling price for this listing; taxes are included where applicable.\\n\\nCustomer reviews\\n★★★★★\\nWould buy again\\n\\nAnanya M. · 2024-12-31 · Verified purchase\\n\\nBought this after returning two other brands. Nothing has rattled loose or started creaking yet. Second Halvard product I own and both have lasted. Holding up well so far.\\n\\n51 people found this helpful\\n\\n★★★★★\\nSolid, boring, reliable\\n\\nGaurav G. · 2024-12-08 · Verified purchase\\n\\nPicked it up on a whim and it has earned its place. Nothing has rattled loose or started creaking yet. Second Halvard product I own and both have lasted. Would buy the same one again.\\n\\n22 people found this helpful\\n\\n★★★★★\\nExactly what I wanted\\n\\nGaurav K. · 2024-01-10\\n\\nReplaced a five-year-old unit with this. It does the one job it advertises and does it well. Packaging was tidy and nothing was missing. Would buy the same one again.\\n\\n95 people found this helpful\\n\\nDelivery estimates assume a serviceable pincode and in-stock inventory at the nearest hub. The review list is the full history for this listing; the rating shown beside the price is the current aggregate and is recalculated far more often.\\n\\nDemo storefront. All products, brands, and prices are fictional.\\n\\nWe use cookies to make this store work and to remember your preferences. By continuing to browse you accept our use of cookies.\\n\\nALLOW\\nREJECT\"\n}",
+    "url": "https://demo.inelabteamdev.com/item/2415"
+  },
+  {
+    "success": true,
+    "url": "https://demo.inelabteamdev.com/item/2415",
+    "finalUrl": "https://demo.inelabteamdev.com/item/2415",
+    "httpStatus": 200,
+    "scrapedAt": "2026-09-27T15:16:28.659Z",
+    "startedAt": "2026-09-27T15:15:49.758Z",
+    "product": {
+      "name": "Halvard Foldable Tablet Flex",
+      "brand": "Halvard",
+      "sku": "SK-2415-HA",
+      "category": "Tablets",
+      "blurb": "The Halvard Foldable Tablet Flex. A dependable tablets pick with a clean, no-nonsense design and the everyday features you actually use.",
+      "image": null
+    },
+    "options": {
+      "available": [
+        {
+          "axis": "Storage",
+          "options": [
+            {
+              "text": "64 GB",
+              "selected": false,
+              "disabled": false
+            },
+            {
+              "text": "128 GB",
+              "selected": false,
+              "disabled": false
+            },
+            {
+              "text": "256 GB",
+              "selected": true,
+              "disabled": false
+            }
+          ]
+        }
+      ],
+      "selected": [
+        {
+          "axis": "Storage",
+          "value": "64 GB"
+        }
+      ],
+      "randomSelection": [
+        {
+          "axis": "Storage",
+          "value": "64 GB",
+          "changed": true
+        }
+      ]
+    },
+    "offer": {
+      "price": null,
+      "stock": null,
+      "rating": null,
+      "ratingsCount": null,
+      "delivery": null,
+      "seller": null,
+      "saving": null,
+      "checkedTodayPrice": false
+    },
+    "specifications": {
+      "Warranty": "1 year manufacturer warranty",
+      "In the box": "Foldable Tablet, Stylus, Folio sleeve",
+      "Country of origin": "Czechia",
+      "Returns": "7-day return or replacement",
+      "Support": "Phone support, 9am–6pm IST, weekdays only",
+      "Weight": "667 g",
+      "Material": "Polycarbonate with glass front",
+      "Colour": "Graphite",
+      "Model year": "2024"
+    },
+    "about": "The Halvard Foldable Tablet Flex is part of our everyday tablets range. It is built around the features people actually reach for, without the ones they never use, and it is designed to keep working after the novelty wears off. Pricing and availability on this page are live and can change during the day. The figure shown is the current selling price for this listing; taxes are included where applicable.",
+    "reviews": [
+      {
+        "rating": "4 out of 5",
+        "headline": "Would buy again",
+        "byline": "Ananya M. · 2024-12-31 · Verified purchase",
+        "review": "Bought this after returning two other brands. Nothing has rattled loose or started creaking yet. Second Halvard product I own and both have lasted. Holding up well so far.",
+        "helpful": "51 people found this helpful"
+      },
+      {
+        "rating": "5 out of 5",
+        "headline": "Solid, boring, reliable",
+        "byline": "Gaurav G. · 2024-12-08 · Verified purchase",
+        "review": "Picked it up on a whim and it has earned its place. Nothing has rattled loose or started creaking yet. Second Halvard product I own and both have lasted. Would buy the same one again.",
+        "helpful": "22 people found this helpful"
+      },
+      {
+        "rating": "5 out of 5",
+        "headline": "Exactly what I wanted",
+        "byline": "Gaurav K. · 2024-01-10",
+        "review": "Replaced a five-year-old unit with this. It does the one job it advertises and does it well. Packaging was tidy and nothing was missing. Would buy the same one again.",
+        "helpful": "95 people found this helpful"
+      }
+    ],
+    "diagnostics": {
+      "pageErrors": []
+    }
+  },
+  {
+    "productId": "awa46g",
+    "productName": "iPhone 15",
+   "option": "128GB",
+    "timestamp": "2026-09-27T13:18:07.389Z",
+    "price": "57999",
+    "stock": "In Stock",
+    "outcome": "success"
+  }
+]

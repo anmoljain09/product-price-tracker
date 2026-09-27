@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "productName": "Nike Air Max 270",
+    "option": "Black / 9 UK",
+    "timestamp": "2026-09-27T10:30:00.000Z",
+    "price": 12999,
+    "stock": "In Stock",
+    "outcome": "success"
+  },
+  {
+    "id": 2,
+    "productName": "Apple AirPods Pro",
+    "option": "2nd Generation",
+    "timestamp": "2026-09-27T09:15:00.000Z",
+    "price": 24900,
+    "stock": "In Stock",
+    "outcome": "success"
+  },
+  {
+    "id": 3,
+    "productName": "Samsung Galaxy S25",
+    "option": "256GB / Navy",
+    "timestamp": "2026-09-27T08:45:00.000Z",
+    "price": 74999,
+    "stock": "Out of Stock",
+    "outcome": "failed"
+  },
+  {
+    "id": 4,
+    "productName": "Sony WH-1000XM5",
+    "option": "Black",
+    "timestamp": "2026-09-26T18:20:00.000Z",
+    "price": 29990,
+    "stock": "Limited Stock",
+    "outcome": "success"
+  },
+  {
+    "id": 5,
+    "productName": "Logitech MX Master 3S",
+    "option": "Graphite",
+    "timestamp": "2026-09-26T16:10:00.000Z",
+    "price": 8995,
+    "stock": "In Stock",
+    "outcome": "success"
+  },
+  {
+    "id": 6,
+    "productName": "Apple MacBook Air M3",
+    "option": "16GB / 512GB / Midnight",
+    "timestamp": "2026-09-26T14:35:00.000Z",
+    "price": 134900,
+    "stock": "Out of Stock",
+    "outcome": "failed"
+  },
+  {
+    "id": 7,
+    "productName": "Adidas Ultraboost Light",
+    "option": "White / 10 UK",
+    "timestamp": "2026-09-26T12:05:00.000Z",
+    "price": 11999,
+    "stock": "In Stock",
+    "outcome": "success"
+  },
+  {
+    "id": 8,
+    "productName": "OnePlus Buds 3",
+    "option": "Splendid Blue",
+    "timestamp": "2026-09-25T19:40:00.000Z",
+    "price": 5499,
+    "stock": "In Stock",
+    "outcome": "success"
+  }
+]

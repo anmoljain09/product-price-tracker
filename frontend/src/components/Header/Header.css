@@ -1,0 +1,64 @@
+.site-header {
+  width: 100%;
+  background: #ffffff;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.header-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+
+  min-height: 72px;
+  padding: 0 24px;
+
+  display: flex;
+  align-items: center;
+}
+
+/* Logo / Flag */
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+
+  text-decoration: none;
+  color: #171717;
+}
+
+.brand-flag {
+  width: 42px;
+  height: 42px;
+
+  object-fit: cover;
+  border-radius: 8px;
+
+  border: 1px solid #f1d96b;
+  background: #fff4c2;
+}
+
+.brand-name {
+  font-size: 21px;
+  font-weight: 700;
+  letter-spacing: -0.4px;
+  color: #171717;
+}
+
+/* Mobile */
+
+@media (max-width: 600px) {
+  .header-inner {
+    min-height: 64px;
+    padding: 0 16px;
+  }
+
+  .brand-flag {
+    width: 36px;
+    height: 36px;
+  }
+
+  .brand-name {
+    font-size: 18px;
+  }
+}
+
