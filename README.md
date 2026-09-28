@@ -2,21 +2,6 @@
 
 A full-stack product price tracking application built with **React**, **Express.js**, **MongoDB**, and **Web Scraping**.
 
-The application allows users to search for products, add them to a tracking list, monitor price changes, and view tracking history through a dashboard.
-
----
-
-## 🚀 Features
-
-* 🔎 Search and filter products
-* 🛍️ View product and store information
-* 📌 Add products to a tracking list
-* 📊 Track product prices over time
-* 🕷️ Retrieve price information using web scraping
-* 💾 Store tracking information in MongoDB
-* 📈 View current prices and price history
-* 📋 Display tracking data in a dashboard
-
 ---
 
 ## 🛠️ Tech Stack
@@ -417,29 +402,3 @@ Search Products
 ```
 
 ---
-
-# 📝 Important Notes
-
-* Both frontend and backend servers must be running at the same time.
-* Make sure MongoDB is accessible using the connection string configured in `.env`.
-* Ensure `VITE_API_BASE_URL` points to the correct backend API.
-* Keep sensitive credentials such as MongoDB connection strings outside version control.
-* Product search data is sourced from `productCache.json`.
-* Tracking and price information is handled through the backend and tracking data files.
-
----
-
-# 🚀 Project Status
-
-The application is configured as a full-stack **Product Price Tracker** with:
-
-* React frontend
-* Express.js backend
-* MongoDB database
-* Product search and filtering
-* Tracklist functionality
-* Web scraping
-* Price tracking
-* Dashboard with price history
-
-**Happy Tracking! 🚀**
